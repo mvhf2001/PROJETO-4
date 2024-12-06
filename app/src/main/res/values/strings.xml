@@ -1,0 +1,51 @@
+<resources>
+    <string name="hello" translatable="false">Hello, %s</string>
+    <string name="app_name" translatable="false">listview</string>
+    <string name="addPerson" translatable="false">Add Person</string>
+    <string name="name" translatable="false">Name</string>
+    <string name="phone" translatable="false">Phone Number</string>
+    <string name="todo2" translatable="false" />
+    <string name="icone" translatable="false" />
+    <string name="a_partner_chegou_para_expandir_os_limites_da_educa_o" translatable="false">a partner chegou para expandir os limites da educação</string>
+    <string name="come_ar" translatable="false">começar</string>
+    <string name="texthome" translatable="false">Acompanhe a rotina acadêmica com facilidade através do nosso aplicativo de agenda virtual, especialmente desenvolvido para professores e pais. Com ele, educadores podem registrar as atividades diárias dos alunos de forma prática e eficiente, enquanto os pais recebem notificações instantâneas sobre as tarefas do dia. Assim, fica mais simples gerenciar o tempo de estudo das crianças, garantindo que elas se dediquem às atividades escolares com o apoio necessário em casa</string>
+    <string name="title_activity_login" translatable="false">LoginActivity</string>
+    <string name="prompt_email" translatable="false">Email</string>
+    <string name="prompt_password" translatable="false">Password</string>
+    <string name="action_sign_in" translatable="false">Sign in or register</string>
+    <string name="action_sign_in_short" translatable="false">Sign in</string>
+    <string name="welcome" translatable="false">"Welcome !"</string>
+    <string name="invalid_username" translatable="false">Not a valid username</string>
+    <string name="invalid_password" translatable="false">Password must be >5 characters</string>
+    <string name="login_failed" translatable="false">"Login failed"</string>
+    <string name="login" translatable="false">Login</string>
+    <string name="email" translatable="false">email</string>
+    <string name="senha" translatable="false">senha</string>
+    <string name="cadastro" translatable="false">Cadastro</string>
+    <string name="matricula" translatable="false">matricula</string>
+    <string name="entrar" translatable="false">entrar</string>
+    <string name="got_login" translatable="false">Entrar</string>
+    <string name="field_name" translatable="false">Preencha o campo com o seu Nome!</string>
+    <string name="email_field" translatable="false">E-mail inválido!</string>
+    <string name="login_error" translatable="false">Login Error</string>
+    <string name="welcome_message_initial" translatable="false">Bem vindo ao app Minha lista de Contatos!</string>
+    <string name="type_email" translatable="false">Digite seu e-mail:</string>
+    <string name="type_name" translatable="false">Digite seu Nome:</string>
+    <string name="partner" translatable="false">Partner</string>
+    <string name="activity_name" translatable="false">Atividade</string>
+    <string name="activity_date" translatable="false">01/01/2024</string>
+    <string name="activity_info" translatable="false">Info</string>
+    <string name="activity_history" translatable="false">HISTORICO</string>
+    <string name="cadastrar" translatable="false">cadastrar</string>
+    <string name="search" translatable="false">Pesquisar</string>
+    <string name="user_data_not_found" translatable="false">Usuário não encontrado</string>
+    <string name="user_data_error" translatable="false">Erro ao fazer login, verifique as credenciais</string>
+    <string name="aluno" translatable="false">Sergio Henrique Seixas</string>
+    <string name="matriculaperfil" translatable="false">MATRÍCULA</string>
+    <string name="turnoperfil" translatable="false">TURNO</string>
+    <string name="dataperfil" translatable="false">DATA DE CRIAÇÃO</string>
+    <string name="contatoperfil" translatable="false">CONTATO</string>
+    <string name="emailperfil" translatable="false">EMAIL</string>
+    <string name="nascimentoperfil" translatable="false">NASCIMENTO</string>
+>>>>>>> 0d2d1eb43ef7e9c249732fb39f4e3f49566172ec
+</resources>

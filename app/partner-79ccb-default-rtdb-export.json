@@ -1,0 +1,147 @@
+{
+  "activities": {
+    "6": {
+      "activityName": "Biologia",
+      "id": "6",
+      "info": {
+        "activityName": "Estudar radiologia",
+        "dateActivity": "16/06/2024",
+        "descriptionInfo": "Data de entrega limite dia 22/06",
+        "resultActivity": 0
+      },
+      "turma": "1"
+    },
+    "7": {
+      "activityName": "Química",
+      "id": "7",
+      "info": {
+        "activityName": "Calcular ligações químicas",
+        "dateActivity": "17/06/2024",
+        "descriptionInfo": "Data de entrega limite dia 25/06",
+        "resultActivity": 0
+      },
+      "turma": "1"
+    }
+  },
+  "log_activities": {
+    "1": {
+      "activityName": "Geografia 12",
+      "aluno": "iSqVUrQ3AsSTCLejGmEaEKd65Jk2",
+      "date": "",
+      "id": "1",
+      "info": {
+        "dateActivity": "03/06/2024",
+        "descriptionInfo": "Tarefa de Geografia",
+        "nameActivity": "Geografia",
+        "resultActivity": 8
+      },
+      "turma": "1"
+    },
+    "2": {
+      "activityName": "Geografia 2",
+      "aluno": "iSqVUrQ3AsSTCLejGmEaEKd65Jk2",
+      "date": "11/06/2024",
+      "id": "2",
+      "info": {
+        "activityName": "Geografia 2",
+        "dateActivity": "",
+        "descriptionInfo": "Nao sei",
+        "resultActivity": 0
+      },
+      "turma": "1"
+    },
+    "3": {
+      "activityName": "Historia",
+      "aluno": "iSqVUrQ3AsSTCLejGmEaEKd65Jk2",
+      "date": "",
+      "id": "3",
+      "info": {
+        "dateActivity": "13/06/2024",
+        "descriptionInfo": "Mandar em PDF",
+        "nameActivity": "",
+        "resultActivity": 0
+      },
+      "nameActivity": "Historia",
+      "turma": "1"
+    },
+    "-O-EVtiRTeXBhDv_cqp2": {
+      "activityName": "Matematica",
+      "aluno": "iSqVUrQ3AsSTCLejGmEaEKd65Jk2",
+      "date": "12/06/2024",
+      "descriptionInfo": "Enviar atividade descrita em sala de aula aqui corrigida por foto ou pdf",
+      "fileUrl": "https://firebasestorage.googleapis.com/v0/b/partner-79ccb.appspot.com/o/log_activities%2Fimage%3A165622?alt=media&token=f5272235-df10-4cb2-bb9b-8d3ec265a104",
+      "id": "3",
+      "info": {
+        "dateActivity": "13/06/2024",
+        "descriptionInfo": "Enviar atividade descrita em sala de aula aqui corrigida por foto ou pdf",
+        "nameActivity": "Matemática",
+        "resultActivity": 0
+      },
+      "turma": "1"
+    },
+    "-O-HWyZffnLT-ntj0QDo": {
+      "activityName": "Fisica",
+      "aluno": "iSqVUrQ3AsSTCLejGmEaEKd65Jk2",
+      "date": "13/06/2024",
+      "descriptionInfo": "Fazer até o dia 14 (Sexta)",
+      "fileUrl": "https://firebasestorage.googleapis.com/v0/b/partner-79ccb.appspot.com/o/log_activities%2Fimage%3A165668?alt=media&token=889e6c13-dc4c-4ef1-9b93-cbb1ae506f66",
+      "id": "4",
+      "info": {
+        "dateActivity": "14/06/2024",
+        "descriptionInfo": "Fazer até o dia 14 (Sexta)",
+        "nameActivity": "",
+        "resultActivity": 0
+      },
+      "turma": "1"
+    },
+    "-O-IyDvCXz74msvXaFHM": {
+      "activityName": "Ed. Fisica",
+      "aluno": "iSqVUrQ3AsSTCLejGmEaEKd65Jk2",
+      "date": "13/06/2024",
+      "descriptionInfo": "Mandar até o dia 15/06/2024",
+      "fileUrl": "https://firebasestorage.googleapis.com/v0/b/partner-79ccb.appspot.com/o/log_activities%2Fimage%3A165555?alt=media&token=296c8170-cfc9-418c-948b-e70e0aac8c08",
+      "id": "5",
+      "info": {
+        "dateActivity": "15/06/2024",
+        "descriptionInfo": "Mandar até o dia 15/06/2024",
+        "nameActivity": "",
+        "resultActivity": 0
+      },
+      "turma": "1"
+    }
+  },
+  "turmas": [
+    null,
+    {
+      "alunos": {
+        "id": "iSqVUrQ3AsSTCLejGmEaEKd65Jk2"
+      },
+      "nameProfessor": "Carlos José",
+      "nameTurma": "História",
+      "serie": "9"
+    }
+  ],
+  "users": {
+    "6cm04uo2gfbO8APFbpzSN2P0E663": {
+      "data_criacao": "",
+      "data_nasc": "",
+      "email": "davi@aluno.com",
+      "id": "6cm04uo2gfbO8APFbpzSN2P0E663",
+      "matricula": "",
+      "name": "",
+      "stability": 0,
+      "turma": "",
+      "turno": ""
+    },
+    "iSqVUrQ3AsSTCLejGmEaEKd65Jk2": {
+      "data_criacao": "14/03/2024",
+      "data_nasc": "21/02/2003",
+      "email": "andre@gmail.com",
+      "matricula": "123456789",
+      "name": "André Guilherme Nascimento",
+      "phone": "81997230897",
+      "turma": "1",
+      "turno": "MANHÃ"
+    }
+  }
+}

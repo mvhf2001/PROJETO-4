@@ -1,0 +1,7 @@
+<resources>
+    <string name="hello">Hello, %s</string>
+    <string name="app_name">lista</string>
+    <string name="addPerson">Adicionar Pessoa</string>
+    <string name="name">Nome</string>
+    <string name="phone">Número de telefone</string>
+</resources>
